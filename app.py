@@ -21,6 +21,6 @@ def eb_api_query():
     #populate this dictionary with info from the search
     dict = {}
 
-    
+
 
 eb_api_query()
